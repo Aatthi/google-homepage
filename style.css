@@ -1,0 +1,98 @@
+#nav-bar{
+text-align: end;
+
+}
+
+   
+
+#nav-bar li{
+    display: inline-flex;
+    justify-content: center;
+    padding-right: 1.5em;
+    padding-bottom: -3em;
+    color: grey;
+    font-size: 15px;
+ 
+}
+
+
+#top-right{
+    text-align: right;
+    margin-top: -1.5em;
+}
+
+#top-left{
+    text-align: left;
+ 
+}
+
+.sign-in{
+    padding-left: 1.5em;
+    padding-top: 0.25em;
+    padding-bottom: 0.25em;
+    border: thin;
+    color: white;
+    background-color: rgb(55, 95, 207);
+}
+
+#main{
+    padding-top: 8em;
+    margin-left: 45%;
+    text-align: justify;
+}
+
+#image{
+margin-left: -4.4em;
+
+}
+#search{
+margin-left: -6.5em;
+margin-right: 10em;
+    
+}
+
+button{
+    margin-top: 2em;
+    margin-left: 4.5em;
+    width: 150px;
+    height: 35px;
+    border: thin rgb(241, 241, 241);
+    background-color: rgb(238, 238, 238);
+    border-radius: 5%;
+}
+
+#search-bar{
+width: 45%;
+height: 3em;
+font-size: 14px;
+border: solid rgb(246, 246, 246);
+
+}
+
+#footer{
+    text-align: end;
+    padding-top: 0.25em;
+    padding-bottom: 0.25em;
+    margin-top: 29em;
+    margin-left: -1em;
+    margin-right: -1em;
+    margin-bottom: -1em;
+    border: thin;
+    background-color:  rgb(233, 233, 233);;
+    color: grey;
+  
+}
+
+#footer li{
+    display: inline;
+    padding-right: 1.5em;   
+}
+
+#left{
+    text-align: left;
+}
+
+#right{
+    text-align: right;
+    margin-top: -1em;
+}
